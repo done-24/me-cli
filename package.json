@@ -1,0 +1,20 @@
+{
+  "name": "me-cli",
+  "version": "1.0.0",
+  "description": "脚手架玩具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/done-24/me-lci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/done-24/me-lci/issues"
+  },
+  "homepage": "https://github.com/done-24/me-lci#readme"
+}
