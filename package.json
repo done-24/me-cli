@@ -1,6 +1,7 @@
 {
   "name": "me-cli",
   "version": "1.0.0",
+  "private": true,
   "description": "脚手架玩具",
   "bin": {
     "me": "bin/index.js"
@@ -13,7 +14,7 @@
     "url": "git+https://github.com/done-24/me-lci.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "done-24",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/done-24/me-lci/issues"
