@@ -2,7 +2,9 @@
   "name": "me-cli",
   "version": "1.0.0",
   "description": "脚手架玩具",
-  "main": "index.js",
+  "bin": {
+    "me": "bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
