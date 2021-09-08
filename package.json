@@ -13,11 +13,19 @@
     "type": "git",
     "url": "git+https://github.com/done-24/me-lci.git"
   },
-  "keywords": [],
+  "keywords": [
+    "cli"
+  ],
   "author": "done-24",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/done-24/me-lci/issues"
   },
-  "homepage": "https://github.com/done-24/me-lci#readme"
+  "homepage": "https://github.com/done-24/me-lci#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "kolorist": "^1.5.0",
+    "minimist": "^1.2.5",
+    "prompts": "^2.4.1"
+  }
 }
